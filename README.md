@@ -17,7 +17,6 @@ Feel free to explore my repositories, get in touch, or reach out for potential c
   [Drupal](https://www.drupal.org/u/coderider)  
   [stackoverflow](https://stackoverflow.com/users/2231213/code-rider)  
   [Linkedin](https://www.linkedin.com/in/rashidabdullah/)  
-  rashid.code.rider@gmail.com
   
 <!---
 code-rider/code-rider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
